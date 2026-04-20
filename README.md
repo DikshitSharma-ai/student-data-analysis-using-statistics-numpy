@@ -4,37 +4,37 @@ This is a beginner-level Python project that performs statistical analysis on st
 It covers essential concepts required for Data Science and Machine Learning.
 ##Features
 Basic Statistics
-Mean
-Median
-Mode
+Mean,
+Median,
+Mode,
 ## Spread Analysis
-Range
-Variance
-Standard Deviation
+Range,
+Variance,
+Standard Deviation,
 ## Outlier Detection
-Using IQR (Interquartile Range)
-Correlation Analysis
-Relationship between study hours and marks
-Data Scaling
-Z-score (Standardization)
-Min-Max Normalization
+Using IQR (Interquartile Range),
+Correlation Analysis,
+Relationship between study hours and marks,
+Data Scaling,
+Z-score (Standardization),
+Min-Max Normalization,
 ##Technologies Used
-Python
+Python,
 NumPy
 ## How to Run
 Install NumPy:
-pip install numpy
+pip install numpy-
 Run the Python file:
-python main.py
-Sample Output
+python main.py-
+Sample Output-
 Mean, Median, Mode
-Variance & Standard Deviation
-Outliers
-Correlation value
+Variance & Standard Deviation,
+Outliers,
+Correlation value,
 Scaled data
 ## Learning Outcomes
-Understanding core statistics concepts
-Implementing statistical formulas in Python
+Understanding core statistics concepts,
+Implementing statistical formulas in Python,
 Data preprocessing for Machine Learning
 ## Author
 Dikshit Sharma
